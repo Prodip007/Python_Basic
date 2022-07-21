@@ -5,7 +5,12 @@ __pycache__/
 
 # C extensions
 *.so
+
+# ignore vscode files
 .vs/
+# ignore virtual environments
+venv/
+
 
 # Distribution / packaging
 .Python
